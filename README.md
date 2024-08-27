@@ -9,7 +9,9 @@
 ### Skills Learned
 
 -Python variables
+
 -Python expressions
+
 -Python statements 
 
 ### Tools Used
